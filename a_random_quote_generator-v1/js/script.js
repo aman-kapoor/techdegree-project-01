@@ -60,8 +60,11 @@ function printQuote() {
 ***/
 
 function randomBackgroundColor() {
-  const randomColor = Math.floor(Math.random() * 255);
-  return document.body.style.backgroundColor = "rgb("+randomColor+", "+randomColor+", "+randomColor+")";
+  const randomColor1 = Math.floor(Math.random() * 256);
+  const randomColor2 = Math.floor(Math.random() * 256);
+  const randomColor3 = Math.floor(Math.random() * 256);
+
+  return document.body.style.backgroundColor = "rgb("+randomColor1+", "+randomColor2+", "+randomColor3+")";
 };
 
 /***
