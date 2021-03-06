@@ -1,2 +1,4 @@
-# techdegree-project-1
- My First Techdegree Project
+# Techdegree Project 3
+
+My First Techdegree Project
+Author: Aman Kapoor
