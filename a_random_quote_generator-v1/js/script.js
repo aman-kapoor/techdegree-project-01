@@ -76,7 +76,7 @@ function randomBackgroundColor() {
 // };
 
 setInterval(printQuote, 10000);
-setInterval(randomBackgroundColor, 10000)
+setInterval(randomBackgroundColor, 10000);
 
 // timing();
 
